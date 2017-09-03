@@ -1,7 +1,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{rak}
-  s.version = "1.5"
+  s.version = "1.5.1"
 
   s.authors = ["Daniel Lucraft"]
   s.date = %q{2012-07-30}
