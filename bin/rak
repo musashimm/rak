@@ -81,7 +81,7 @@ END
     :plone         => %w( .cpt .cpy .metadata .pt .py ),
     :prolog        => %w( .ecl .pl ),
     :python        => %w( .py ),
-    :ruby          => %w( .erb .haml .rake .rb .rhtml .rjs .rxml .ru Rakefile Gemfile Guardfile Procfile ),
+    :ruby          => %w( .erb .haml .slim .rake .rb .rhtml .rjs .rxml .ru Rakefile Gemfile Guardfile Procfile ),
     :scala         => %w( .scala ),
     :scheme        => %w( .scm .ss ),
     :sed           => %w( .sed ),
